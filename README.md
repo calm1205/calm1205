@@ -6,7 +6,7 @@
 class About extends Me {
 
   static name = "Moriyama Nagi";
-  static birth = new Date("1995/12/05");
+  static birth = "1995/12/05";
 
   getCurrentWorkplace() {
     return [
