@@ -1,2 +1,6 @@
 
-Hi, I'm Nagi.
+## Hi, I'm Nagi.
+
+### sns
+
+[x](https://x.com/authentic_nagi)
