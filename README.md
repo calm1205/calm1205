@@ -3,5 +3,5 @@
 
 ### sns
 
-- [x](https://x.com/authentic_nagi)
+- [x](https://x.com/NagiMntsq)
 - [YOUTRUST](https://youtrust.jp/users/moriyama_nagi)
